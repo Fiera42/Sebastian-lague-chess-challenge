@@ -1,3 +1,5 @@
+Project made during SUMMER 2023
+
 The API has been made by Sebastian himself,
 
 the engine I coded can be found there : 
