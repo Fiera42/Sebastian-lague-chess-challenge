@@ -14,3 +14,9 @@ Fonctionnality :
 -Qsearch
 -Move ordering (homeBrew + MVV-LVA)
 -homeBrew eval (mobility-based evaluation)
+
+TO RUN THE ENGINE :
+
+get into this directory : Chess-Challenge\Chess-Challenge
+
+open a command terminal and run the command : dotnet run -c Release
