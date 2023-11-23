@@ -8,16 +8,16 @@ Chess-Challenge\Chess-Challenge\src\My Bot
 
 
 
-Fonctionnality :
+Fonctionnality : </br>
+</br>
+-Alpha-Beta prunning</br>
+-Transposition table</br>
+-Iterative deepening</br>
+-Qsearch</br>
+-Move ordering (homeBrew + MVV-LVA)</br>
+-homeBrew eval (mobility-based evaluation)</br>
 
--Alpha-Beta prunning
--Transposition table
--Iterative deepening
--Qsearch
--Move ordering (homeBrew + MVV-LVA)
--homeBrew eval (mobility-based evaluation)
-
-TO RUN THE ENGINE :
+TO RUN THE ENGINE :</br>
 
 get into this directory : Chess-Challenge\Chess-Challenge
 
