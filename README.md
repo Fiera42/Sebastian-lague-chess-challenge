@@ -1,4 +1,4 @@
-Project made during SUMMER 2023
+Project made during SUMMER 2023 for Sebastian Lague coding challenge : https://youtu.be/Ne40a5LkK6A?si=CpwUGFduvGxH8MFS
 
 The API has been made by Sebastian himself,
 
